@@ -1,0 +1,11 @@
+.slide-image {
+  height: 600px;
+  width: 95%;
+  margin-left: 5.5%;
+}
+.slide-texts {
+  text-align: left;
+}
+.slide-texts-button {
+  border-radius: 25%;
+}

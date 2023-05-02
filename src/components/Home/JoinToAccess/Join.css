@@ -1,0 +1,60 @@
+.join-container {
+  margin-left: 5.5%;
+  background-color: purple;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-blend-mode: lighten;
+  background-size: cover;
+  background-image: url("https://cdn.pixabay.com/photo/2019/04/24/21/55/cinema-4153289_960_720.jpg");
+}
+.head-div {
+  margin-left: 0.5%;
+  color: white;
+  position: absolute;
+  left: auto;
+}
+.body-div {
+  margin-top: 3%;
+  margin-left: -10%;
+  color: yellow;
+  text-align: left;
+}
+.body-div-two {
+  margin-top: 3%;
+  margin-left: 3%;
+  color: gold;
+  text-align: left;
+}
+.button-div{
+  background-color: darkcyan;
+  color: #efefef;
+  border: none;
+  text-align: center;
+  padding: 5px 20px;
+  border-radius: 25px;
+  margin-left: -90%;
+  margin-bottom: 1px;
+}
+.col{
+  margin-left: 6%;
+  margin-right: 7%;
+}
+.button-div2{
+  background-color: transparent;
+  color: #050505;
+  border-color: black;
+  text-align: center;
+  border-radius: 25px;
+  padding: 5px 20px;
+}
+.join-access-email{
+  width: 70%;
+  padding: 0.5rem;
+  border: none;
+  border-bottom: 1px solid #ffffff;
+  margin-bottom: 10px;
+  background-color: transparent;
+  color: peachpuff;
+  font-size: 1.2rem;
+  outline: none;
+}

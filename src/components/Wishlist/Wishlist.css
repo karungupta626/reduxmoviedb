@@ -1,0 +1,32 @@
+.wishlist-div{
+    background-image: url('https://wallpapercave.com/wp/wp7112236.jpg');
+    background-size: 100% 100%;
+    padding: 50px;
+    height: 100vh;
+}
+.wishlist-header{
+    color: rgb(30, 30, 197);
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+.grid-container{
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  margin: 0 80px;
+  grid-gap: 20px;
+  
+}
+.noItems{
+  color: red;
+  font-size: 2rem;
+}
+.card{
+  margin-top: 0px;
+  padding: 5px;
+}
+.pagination-div{
+  margin-left: 78%;
+}
+.pagination-div .MuiPaginationItem-page {
+  color: #fff;
+}

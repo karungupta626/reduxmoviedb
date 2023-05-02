@@ -1,0 +1,13 @@
+.ErrPage_div {
+  margin-top: 13%;
+  background-color: grey;
+}
+.NavLink_ {
+  padding: 5px;
+  color: yellowgreen;
+  text-decoration: underline;
+}
+.NavLink_:hover {
+  color: rgb(255, 0, 0);
+  text-decoration: underline;
+}

@@ -1,0 +1,35 @@
+.logo-sidebar{
+   background-color: #232323;
+   margin-left: 5px;
+   margin-top: 30px;
+   background-image: url("indi-logo.png");
+   height: 60px;
+   width: 80px; 
+   margin-bottom: 20px;
+   outline-color: #232323;
+   
+}
+.logo-div{
+    background-color: #232323;
+}
+.sidebar-div{
+    background-color: #232323;
+}
+.search-div{
+    color: white;
+}
+.search-div:hover{
+    color: crimson;
+}
+.favorite-div{
+    color: white;
+}
+.favorite-div:hover{
+    color: crimson;
+}
+.movies-div{
+    color: white;
+}
+.movies-div:hover{
+    color: crimson;
+}
